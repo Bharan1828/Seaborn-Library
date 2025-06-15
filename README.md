@@ -1,0 +1,1 @@
+This project demonstrates the use of the Seaborn library in Python to visualize and explore the Iris flower dataset. The Iris dataset is a classic multivariate dataset that contains information about the sepal and petal dimensions of three different species of iris flowers: Iris setosa, Iris versicolor, and Iris virginica.
